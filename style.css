@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+html{
+	background-color: navy
+
+}
+
+h1{
+	color:sienna;
+	text-align: center;
+	font-family: Futura;
+
+}
+h3{
+	font-family: Futura;
+	text-align: center;
+	color: sienna;
+}
+p{
+	font-family: Palatino;
+	text-align: left;
+	color:black;
+}
+
+ul{
+	text-align: left;
+	color: black;
+	font-family: Palatino;
+
+}
+h6{
+	color: sienna;
+	text-align: center;
+}
+p{
+	margin: 50px 50px 50px 50px;
+}
+h1{
+	text-decoration: underline;
+}
+}
+img{
+	margin: 120px 120px 120px 120px
+}
+q{
+	text-align: center;
+}
